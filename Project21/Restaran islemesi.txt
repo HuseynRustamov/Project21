@@ -1,0 +1,6 @@
+username-- admin
+password-- admin
+
+Admin: elave edib silme funksiyalari ve bildiris funksiyasi var.  (elave edib silme) yerine yetirdikden sonra GERI Bildirim funksiyasinda qeyd olunur
+
+Sifaris: clientin adla axtaris funksiyasi sifaris etme elave etme raiting funksiyalari var.
